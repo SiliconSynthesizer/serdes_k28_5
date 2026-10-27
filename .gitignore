@@ -1,0 +1,9 @@
+# Generated simulation outputs (keep the empty build directory)
+/build/*
+!/build/.gitkeep
+
+# Editor and operating system temporary files
+*.swp
+*.swo
+*~
+.DS_Store
